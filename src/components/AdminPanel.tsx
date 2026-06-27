@@ -147,7 +147,7 @@ export default function AdminPanel({ isOpen, onClose }: AdminPanelProps) {
       return;
     }
 
-    const itemImage = portfolioForm.image || "https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=600&q=80";
+    const itemImage = portfolioForm.image || "https://i.ibb.co/CKMXMVML/050ae39d-1887-4cd6-82a3-09918b30b043.png";
 
     if (editingPortfolioId) {
       // Edit

@@ -546,7 +546,7 @@ export default function App() {
                 <div className="lg:col-span-5 relative">
                   <div className="aspect-[3/4] rounded-3xl overflow-hidden border border-stone-100 bg-stone-50 shadow-sm relative">
                     <img
-                      src="https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=400&q=80"
+                      src="https://i.ibb.co/CKMXMVML/050ae39d-1887-4cd6-82a3-09918b30b043.png"
                       alt="Nikita Mohini in her salon"
                       className="w-full h-full object-cover"
                       referrerPolicy="no-referrer"

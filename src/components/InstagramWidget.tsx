@@ -17,7 +17,7 @@ export default function InstagramWidget({ onSelectCategory, activeCategory }: In
         <div className="relative group">
           <div className="absolute inset-0 bg-stone-950 rounded-full -m-1.5 p-[2px] animate-pulse group-hover:scale-105 transition-transform duration-300" />
           <img
-            src="https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=400&q=80"
+            src="https://i.ibb.co/CKMXMVML/050ae39d-1887-4cd6-82a3-09918b30b043.png"
             alt={brandInfo.name}
             className="relative w-32 h-32 md:w-36 md:h-36 rounded-full object-cover border-4 border-white bg-white"
             referrerPolicy="no-referrer"
