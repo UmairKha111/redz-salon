@@ -1,0 +1,6 @@
+{
+  "name": "Redz Salon By Nikita Mohini",
+  "description": "Luxurious, fully responsive portfolio and dynamic booking system for Redz Salon by Nikita Mohini. Features nails, hair treatments, makeup, bridal mehendi, and skin care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
